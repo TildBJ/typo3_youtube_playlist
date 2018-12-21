@@ -26,7 +26,7 @@
       "vendor-dir": "Libraries"
     },
     "require": {
-		"typo3/cms-core": ">=7.6,<8.0",
+		"typo3/cms-core": ">=7.6,<8.8",
         "google/apiclient": "^1.1"
     },
     "replace": {
